@@ -44,6 +44,11 @@ nav a {
   color: #14763e;
   font-weight: bold;
 }
+nav a:hover {
+  text-decoration: none;
+  color: #6b4000;
+  font-weight: bold;
+}
 
 #origem {
   background-color: white;
